@@ -1,2 +1,4 @@
-.layout
-.pdf
+*.layout
+*.pdf
+*.depend
+*.o
