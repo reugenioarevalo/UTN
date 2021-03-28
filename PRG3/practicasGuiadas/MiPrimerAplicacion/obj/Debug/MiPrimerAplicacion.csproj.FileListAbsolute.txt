@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\bin\Debug\MiPrimerAplicacion.exe.config
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\bin\Debug\MiPrimerAplicacion.exe
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\bin\Debug\MiPrimerAplicacion.pdb
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.MiPrimeraAplicacion.resources
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.Properties.Resources.resources
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.exe
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\MiPrimerAplicacion\obj\Debug\MiPrimerAplicacion.pdb

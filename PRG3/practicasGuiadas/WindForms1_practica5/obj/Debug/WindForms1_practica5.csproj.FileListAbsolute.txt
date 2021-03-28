@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\bin\Debug\WindForms1_practica5.exe.config
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\bin\Debug\WindForms1_practica5.exe
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\bin\Debug\WindForms1_practica5.pdb
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.frmPractica5.resources
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.Properties.Resources.resources
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.exe
+C:\Users\reuge\Documents\UTN\2do AÑO\PRG3\UNI1\Practicas guiadas\practicasGuiadas\WindForms1_practica5\obj\Debug\WindForms1_practica5.pdb
