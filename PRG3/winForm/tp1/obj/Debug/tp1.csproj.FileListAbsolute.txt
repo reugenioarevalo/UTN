@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.TP1.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.Properties.Resources.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\bin\Debug\tp1.exe.config
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\bin\Debug\tp1.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\bin\Debug\tp1.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\winForm\tp1\obj\Debug\tp1.pdb
