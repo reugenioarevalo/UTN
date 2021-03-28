@@ -53,6 +53,7 @@
             this.btnAceptar.TabIndex = 0;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // lblApellido
             // 
@@ -101,6 +102,7 @@
             // 
             // txtApellido
             // 
+            this.txtApellido.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.txtApellido.Location = new System.Drawing.Point(249, 81);
             this.txtApellido.MaxLength = 50;
             this.txtApellido.Name = "txtApellido";
@@ -109,6 +111,7 @@
             // 
             // txtNombre
             // 
+            this.txtNombre.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.txtNombre.Location = new System.Drawing.Point(249, 114);
             this.txtNombre.MaxLength = 30;
             this.txtNombre.Name = "txtNombre";
@@ -117,6 +120,7 @@
             // 
             // txtDireccion
             // 
+            this.txtDireccion.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.txtDireccion.Location = new System.Drawing.Point(249, 186);
             this.txtDireccion.MaxLength = 80;
             this.txtDireccion.Name = "txtDireccion";
@@ -130,6 +134,7 @@
             this.txtEdad.Name = "txtEdad";
             this.txtEdad.Size = new System.Drawing.Size(31, 20);
             this.txtEdad.TabIndex = 8;
+            this.txtEdad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtEdad_KeyPress);
             // 
             // txtResultado
             // 
@@ -151,6 +156,7 @@
             this.btnCancelar.TabIndex = 11;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // frmPractica5
             // 
