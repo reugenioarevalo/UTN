@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\bin\Debug\practica6.exe.config
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\bin\Debug\practica6.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\bin\Debug\practica6.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.Form1.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.Properties.Resources.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\practicasGuiadas\WindFormPDFII\practica6\obj\Debug\practica6.pdb

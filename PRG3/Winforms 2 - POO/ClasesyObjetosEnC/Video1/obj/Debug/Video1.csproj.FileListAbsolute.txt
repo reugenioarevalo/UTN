@@ -1,0 +1,7 @@
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\bin\Debug\Video1.exe.config
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\bin\Debug\Video1.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\bin\Debug\Video1.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\obj\Debug\Video1.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\obj\Debug\Video1.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\obj\Debug\Video1.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Winforms 2 - POO\ClasesyObjetosEnC\Video1\obj\Debug\Video1.pdb
