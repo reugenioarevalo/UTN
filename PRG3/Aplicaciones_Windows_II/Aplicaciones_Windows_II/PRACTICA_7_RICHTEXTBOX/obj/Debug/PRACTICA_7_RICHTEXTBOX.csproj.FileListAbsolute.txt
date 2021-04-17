@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\bin\Debug\PRACTICA_7_RICHTEXTBOX.exe.config
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\bin\Debug\PRACTICA_7_RICHTEXTBOX.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\bin\Debug\PRACTICA_7_RICHTEXTBOX.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.Form1.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.Properties.Resources.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_II\Aplicaciones_Windows_II\PRACTICA_7_RICHTEXTBOX\obj\Debug\PRACTICA_7_RICHTEXTBOX.csprojAssemblyReference.cache
