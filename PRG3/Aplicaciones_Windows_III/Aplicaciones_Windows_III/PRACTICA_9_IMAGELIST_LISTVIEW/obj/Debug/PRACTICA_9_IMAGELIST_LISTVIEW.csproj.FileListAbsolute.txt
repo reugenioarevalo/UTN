@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\bin\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.exe.config
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\bin\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\bin\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.Form1.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.Properties.Resources.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_III\Aplicaciones_Windows_III\PRACTICA_9_IMAGELIST_LISTVIEW\obj\Debug\PRACTICA_9_IMAGELIST_LISTVIEW.pdb

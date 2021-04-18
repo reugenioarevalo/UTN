@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRACTICA_9_IMAGELIST_LISTVIEW", "PRACTICA_9_IMAGELIST_LISTVIEW\PRACTICA_9_IMAGELIST_LISTVIEW.csproj", "{C99A4CDA-ECDD-45E9-B244-D1C2E7F8968B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99A4CDA-ECDD-45E9-B244-D1C2E7F8968B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99A4CDA-ECDD-45E9-B244-D1C2E7F8968B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99A4CDA-ECDD-45E9-B244-D1C2E7F8968B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99A4CDA-ECDD-45E9-B244-D1C2E7F8968B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C09E18-BC46-40FC-8225-0A18DC6FF0F9}
+	EndGlobalSection
+EndGlobal
