@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EL_CONTROL_MENUSTRIP", "EL_CONTROL_MENUSTRIP\EL_CONTROL_MENUSTRIP.csproj", "{28DD8D78-3A2F-479B-A525-F990094F3029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menus_manual", "menus_manual\menus_manual.csproj", "{EF75E808-99F5-4D73-8297-41497B30C4E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DD8D78-3A2F-479B-A525-F990094F3029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DD8D78-3A2F-479B-A525-F990094F3029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DD8D78-3A2F-479B-A525-F990094F3029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DD8D78-3A2F-479B-A525-F990094F3029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF75E808-99F5-4D73-8297-41497B30C4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF75E808-99F5-4D73-8297-41497B30C4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF75E808-99F5-4D73-8297-41497B30C4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF75E808-99F5-4D73-8297-41497B30C4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F304C9C0-8E6C-46C3-960F-1FB07B2F042E}
+	EndGlobalSection
+EndGlobal
