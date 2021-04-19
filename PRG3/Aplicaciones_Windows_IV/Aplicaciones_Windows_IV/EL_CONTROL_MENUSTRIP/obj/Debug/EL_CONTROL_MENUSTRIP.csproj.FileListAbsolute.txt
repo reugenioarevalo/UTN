@@ -1,0 +1,10 @@
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\bin\Debug\EL_CONTROL_MENUSTRIP.exe.config
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\bin\Debug\EL_CONTROL_MENUSTRIP.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\bin\Debug\EL_CONTROL_MENUSTRIP.pdb
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.csprojAssemblyReference.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.Form1.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.Properties.Resources.resources
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.csproj.GenerateResource.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.csproj.CoreCompileInputs.cache
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.exe
+C:\Users\reuge\Documents\GitHub\UTN\PRG3\Aplicaciones_Windows_IV\Aplicaciones_Windows_IV\EL_CONTROL_MENUSTRIP\obj\Debug\EL_CONTROL_MENUSTRIP.pdb
